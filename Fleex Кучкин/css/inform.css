@@ -1,0 +1,8 @@
+.inform__inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.infoorm__item {
+  width: 33.33%;
+}
